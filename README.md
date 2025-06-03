@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
+<p align="center">
+  <img src="https://i.imgur.com/WJD717F.gif" alt="dev-mood" width="400"/>
+</p>
+
 - 🌱 I’m currently learning **Angular**
 
 <h3 align="left">Connect with me:</h3>
