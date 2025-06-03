@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="30" style="display:inline-block; vertical-align: middle;" />, I'm Jonathan
+  Hi <img src="https://i.imgur.com/E7nGhU7.gif" width="30" style="display:inline-block; vertical-align: middle;" />, I'm Jonathan
 </h1>
 
 
