@@ -1,6 +1,7 @@
 <h1 align="center">
-  Hi <span>👋</span>, I'm Jonathan
+  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="30" style="display:inline-block; vertical-align: middle;" />, I'm Jonathan
 </h1>
+
 
 <h3 align="center">A passionate fullstack developer</h3>
 
