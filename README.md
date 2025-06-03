@@ -1,6 +1,26 @@
-<h1 align="center">
-  Hi <img src="https://i.imgur.com/E7nGhU7.gif" width="30" style="display:inline-block; vertical-align: middle;" />, I'm Jonathan
+<h1 style={{ textAlign: "center" }}>
+  Hi <span className="wave-emoji">👋</span>, I'm Jonathan
 </h1>
+
+<style jsx>{`
+  .wave-emoji {
+    display: inline-block;
+    animation: wave 2s infinite;
+    transform-origin: 70% 70%;
+  }
+
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(15deg); }
+    20% { transform: rotate(-10deg); }
+    30% { transform: rotate(15deg); }
+    40% { transform: rotate(-5deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+`}</style>
+
 
 
 <h3 align="center">A passionate fullstack developer</h3>
